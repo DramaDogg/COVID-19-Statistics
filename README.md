@@ -2,10 +2,10 @@
 
 # Libraries/Modules used:
  requests (dependency)
- --> csv
- --> os
- --> platform
- --> datetime
+ ## csv
+ ## os
+ ## platform
+ ## datetime
 
 # INSTRUCTIONS:
  --> The program supports Windows, Mac or any GNU/Linux distribution.
