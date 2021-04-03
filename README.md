@@ -1,6 +1,6 @@
-# COVID-19-Statistics 
+# COVID-19 Statistics 
 
-A Python script that shows real-time COVID-19 statistics in human-readable tabular form via source data from the web.
+A Python script that shows real-time COVID-19 Statistics in human-readable tabular form via source data from the web.
 
 # Libraries/Modules used:
 1. *requests* (dependency)
