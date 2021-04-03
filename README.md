@@ -1,7 +1,7 @@
 # COVID-19-Statistics #
 
 # Libraries/Modules used:
- requests (dependency)
+ ## **requests** (dependency)
  ## csv
  ## os
  ## platform
