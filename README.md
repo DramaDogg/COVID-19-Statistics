@@ -19,7 +19,7 @@ A Python script that shows real-time COVID-19 Statistics in human-readable tabul
 1. The .zip file contains two .py files, *core.py*, *COVID19.py*, and a standalone .exe file.
 2. *core.py* file is not executable and only contains modules for the script to run.
 3. Kindly run covid.py file to run the script (NOTE: Do make sure that both core.py and covid.py are in a common(same) directory!!).
-4. You may also run the standalone *COVID19_Statistics.exe* file instead of the *COVID19.py* script.
+4. You may also run the standalone files for **Windows/Linux** instead of the *COVID19.py* script.
 
 # References:
 Source Data: https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
